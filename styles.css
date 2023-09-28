@@ -1,0 +1,40 @@
+ 
+        body {
+          font-family: Arial, sans-serif;
+          text-align: center;
+      }
+
+      #container {
+          max-width: 400px;
+          margin: 0 auto;
+          padding: 20px;
+          border: 1px solid #ccc;
+          border-radius: 5px;
+          box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      }
+
+      label {
+          display: block;
+          margin-bottom: 10px;
+      }
+
+      input[type="number"] {
+          width: 100px;
+          text-align: center;
+      }
+
+      button {
+          padding: 10px 20px;
+          background-color: #007BFF;
+          color: #fff;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+      }
+
+      #password {
+          margin-top: 20px;
+          font-size: 20px;
+          font-weight: bold;
+      }
+  
